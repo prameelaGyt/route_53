@@ -1,0 +1,27 @@
+{
+  "CT_customer":{
+    "Member First Name":,
+    "Member Last Name":,
+    "Member ID":,
+    "Primary Member ID":,
+    "Relationship Code":,
+    "Group Name":,
+    "Group Code":,
+    "Plan Code":,
+    "Copay Amount":,
+    "Member DOB":,
+    "Member Gender":,
+    "Street":,
+    "Street 2":,
+    "City":,
+    "State":,
+    "Zip":,
+    "Phone Number":,
+    "Email Address":,
+    "Effective Date":,
+    "Termination Date":,
+    "Client Code":,
+    "Program Name":
+
+  }
+}  
