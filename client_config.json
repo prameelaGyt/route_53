@@ -1,0 +1,26 @@
+{
+  "newtoday": {
+    "template_file": "ct.json",
+    "username": "newtoday",
+    "tenant_origin": "gytworkz.upswinghealth.co",
+    "seperator": ",",
+    "file_extension": ".csv",
+    "sheetname": "sheetname here"
+  },
+  "centio": {
+    "template_file": "centivo.json",
+    "username": "centio",
+    "tenant_origin": "demo.upswinghealth.io",
+    "seperator": "|",
+    "file_extension": ".csv",
+    "sheetname": "sheetname here"
+  },
+  "recuro": {
+    "template_file": "recuro.json",
+    "username": "recuro",
+    "tenant_origin": "demo.upswinghealth.io",
+    "seperator": "|",
+    "file_extension": ".csv",
+    "sheetname": "sheetname here"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "CT_CUSTOMER": {
+      "fields": ["Group Name", "Group Code", "Plan Code", "Copay Amount", "Phone Number", "Email Address", "Effective Date", "Termination Date", "Client Code", "Program Name"]
+    },
+    "centio": {
+      "fields": ["Primary Member ID", "Plan Code", "Copay Amount", "Client Code", "Program Name"]
+    },
+    "ValueHealth": {
+      "fields": ["Primary Member ID", "Group Name", "Copay Amount", "Phone Number", "Email Address", "Client Code", "Program Name"]
+    },
+    "Recuro": {
+      "fields": ["Relationship Code", "Group Name", "Plan Code", "Copay Amount", "Client Code"]
+    }
+}
+  
+  

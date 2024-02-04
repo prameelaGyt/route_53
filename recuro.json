@@ -1,0 +1,25 @@
+{
+    "Member First Name":"First Name",
+    "Member Last Name":"Last Name",
+    "Member ID":"Patient Member ID",
+    "Primary Member ID":"Primary Member ID",
+    "Relationship Code":"Relationship Code",
+    "Group Name":"Group Name",
+    "Group Code":"Group Number",
+    "Plan Code":"Plan Number",
+    "Copay Amount":"Copay Amount",
+    "Member DOB":"Date of Birth",
+    "Member Gender":"Gender",
+    "Street":"Address Line 1",
+    "Street 2":"Address Line 2",
+    "City":"City",
+    "State":"State",
+    "Zip":"Zip",
+    "Phone Number":"Phone Number",
+    "Email Address":"Email Address",
+    "Effective Date":"Effective Date",
+    "Termination Date":"Termination Date",
+    "Client Code":"Client Code",
+    "Program Name":"Program Name"
+
+}

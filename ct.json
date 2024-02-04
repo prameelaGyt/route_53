@@ -1,0 +1,25 @@
+{
+    "Member First Name":"MBR_FIRST_NM",
+    "Member Last Name":"MBR_LAST_NM",
+    "Member ID":"HCID",
+    "Primary Member ID":"HCID",
+    "Relationship Code":"MBR_REL_CD",
+    "Group Name":"",
+    "Group Code":"",
+    "Plan Code":"",
+    "Copay Amount":"",
+    "Member DOB":"MBR_BRTH_DT",
+    "Member Gender":"MBR_GNDR_CD",
+    "Street":"MBR_ADDR_LINE1",
+    "Street 2":"MBR_ADDR_LINE2",
+    "City":"MBR_CITY_NM",
+    "State":"ST_PRVNC_CD",
+    "Zip":"EMP_ZIP_CD",
+    "Phone Number":"",
+    "Email Address":"",
+    "Effective Date":"",
+    "Termination Date":"",
+    "Client Code":"SOCHP",
+    "Program Name":""
+
+}

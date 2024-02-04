@@ -1,0 +1,25 @@
+{
+    "Member First Name":"FirstName",
+    "Member Last Name":"LastName",
+    "Member ID":"MemberId",
+    "Primary Member ID":"MemberId",
+    "Relationship Code":"RelationshipCode",
+    "Group Name":"GroupName",
+    "Group Code":"GroupID",
+    "Plan Code":"",
+    "Copay Amount":"",
+    "Member DOB":"DOB",
+    "Member Gender":"Sex",
+    "Street":"Address1",
+    "Street 2":"Address2",
+    "City":"City",
+    "State":"State",
+    "Zip":"Zip",
+    "Phone Number":"CellPhone",
+    "Email Address":"EmailAddress",
+    "Effective Date":"CoverageDateStart",
+    "Termination Date":"CoverageDateEnd",
+    "Client Code":"CENTIVO",
+    "Program Name":""
+
+}

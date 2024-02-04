@@ -1,0 +1,25 @@
+{
+    "Member First Name":"First",
+    "Member Last Name":"Last",
+    "Member ID":"Partic",
+    "Primary Member ID":"",
+    "Relationship Code":"Relationship",
+    "Group Name":"",
+    "Group Code":"Group",
+    "Plan Code":"Plan",
+    "Copay Amount":"",
+    "Member DOB":"DOB",
+    "Member Gender":"Gender",
+    "Street":"Addr",
+    "Street 2":"Addr2",
+    "City":"City",
+    "State":"ST",
+    "Zip":"Zip",
+    "Phone Number":"",
+    "Email Address":"",
+    "Effective Date":"Effdt",
+    "Termination Date":"Enddt",
+    "Client Code":"VHBA",
+    "Program Name":""
+
+}
